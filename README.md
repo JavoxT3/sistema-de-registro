@@ -1,6 +1,8 @@
 <h1> Sistema de registro </h1>
+Estado del proyecto:
 
-- Estado del proyecto: En construcción.
+
+:construction: En construcción :construction:
 
 
 Para ejecutar el sistema, debes poner:
